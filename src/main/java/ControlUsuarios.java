@@ -8,5 +8,10 @@
  * @author Usuario
  */
 public class ControlUsuarios {
+    int n;
+
+    public ControlUsuarios(int n) {
+        this.n = n;
+    }
     
 }
